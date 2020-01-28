@@ -1,2 +1,2 @@
 # koulu
-moi
+moi mitä kuuluu
